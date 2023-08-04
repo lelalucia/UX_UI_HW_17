@@ -1,0 +1,18 @@
+#navBar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 5%;
+}
+#logo {
+    width: 25%;
+  }
+#navigation {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+#navigation p {
+    cursor: pointer;
+    text-decoration: none;
+  }
